@@ -72,7 +72,7 @@ Installation instructions for:
   - Set env var: `ALCHEMY_URL_GOERLI=[ALCHEMY HTTPS ENDPOINT for GOERLI]`
   - Run: `npm run node:goerli`
 
-- [Anvil](https://github.com/foundry-rs/foundry/tree/master/anvil#installation) - use with caution, still experimental.
+- [Anvil](https://github.com/foundry-rs/foundry/tree/master/crates/anvil#installation) - use with caution, still experimental.
 
   To start a forked node:
 
