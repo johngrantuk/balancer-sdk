@@ -18,7 +18,7 @@ Balancer is a community-driven protocol, automated portfolio manager, liquidity 
 
 This SDK gives developers access to methods and examples for formatting data and exectuting transaction on the Balancer V2 Protocol.
 
-[balancer-js](./balancer-js/README.md) A JavaScript SDK which provides commonly used utilties for interacting with Balancer Protocol V2.
+[balancer-js](./balancer-js/README.md) A JavaScript SDK which provides commonly used utilities for interacting with Balancer Protocol V2.
 
 [balancer-py](./balancer-py/README.md) Python tools for interacting with Balancer Protocol V2 in Python.
 
