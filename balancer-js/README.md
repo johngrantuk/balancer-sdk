@@ -443,7 +443,7 @@ Can join with tokens: DAI, USDC, USDT, FRAX, CS1_BPT, CS2_BPT
  * @param slippage        Maximum slippage tolerance in bps i.e. 50 = 0.5%.
  * @param signer          JsonRpcSigner that will sign the staticCall transaction if Static simulation chosen
  * @param simulationType  Simulation type (VaultModel, Tenderly or Static)
- * @param authorisation   Optional auhtorisation call to be added to the chained transaction
+ * @param authorisation   Optional authorisation call to be added to the chained transaction
  * @returns transaction data ready to be sent to the network along with min and expected BPT amounts out.
  */
 async generalisedJoin(
