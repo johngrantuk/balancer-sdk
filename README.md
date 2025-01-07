@@ -16,7 +16,7 @@ Thank you for your understanding, and we hope to see you in our new repository!
 
 Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum blockchain and other EVM compatible systems.
 
-This SDK gives developers access to methods and examples for formatting data and exectuting transaction on the Balancer V2 Protocol.
+This SDK gives developers access to methods and examples for formatting data and executing transaction on the Balancer V2 Protocol.
 
 [balancer-js](./balancer-js/README.md) A JavaScript SDK which provides commonly used utilties for interacting with Balancer Protocol V2.
 
