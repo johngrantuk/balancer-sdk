@@ -28,7 +28,7 @@ This SDK gives developers access to methods and examples for formatting data and
 
 [Balancer V2 Monorepo](https://github.com/balancer-labs/balancer-v2-monorepo) The repository contains the Balancer Protocol V2 core smart contracts, including the Vault and standard Pools, along with their tests, configuration, and deployment information.
 
-[Balancer Documentation](https://docs.balancer.fi/) Documention including high level overviews of Balancer Protocol, FAQs and walkthroughs.
+[Balancer Documentation](https://docs.balancer.fi/) Documentation including high level overviews of Balancer Protocol, FAQs and walkthroughs.
 
 ### Contributing/Suggestions
 
